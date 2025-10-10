@@ -28,7 +28,7 @@ Este projeto gera automaticamente **relatórios de horas extras** de funcionári
     ```bash
     pip install pandas reportlab
 
-2.Execute o script
+3.Execute o script
 
-```bash
-python main.py
+   ```bash
+   python main.py

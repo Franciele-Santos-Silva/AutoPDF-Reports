@@ -22,13 +22,12 @@ Este projeto gera automaticamente **relatórios de horas extras** de funcionári
 
 ## Como usar
 
-1. Coloque o arquivo CSV `horas_extras.csv` na mesma pasta do script.
+1. Coloque o arquivo CSV horas_extras.csv na mesma pasta do script.
+
 2. Instale as dependências, se necessário:
 
-    ```bash
-    pip install pandas reportlab
+        pip install pandas reportlab
 
-2.Execute o script
+3. Execute o script
 
-```bash
-python main.py
+        python main.py
